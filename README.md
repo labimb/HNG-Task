@@ -76,3 +76,9 @@ Many BMW drivers do not know their cars already have ConnectedDrive features. Th
 
 Preview the MVP prototype created during Stage 3A:  
 [ConnectedDrive Lite Prototype](https://bmw-connecteddrive-lite.lovable.app/)
+
+# Userflow Diagram
+
+Access the ConnectedDrive Lite userflow diagram using the link below:
+
+[View Userflow Diagram](https://drive.google.com/file/d/18hyploSrQqfbR9s9prhVRRlPN_1DCXLv/view?usp=drive_link)
