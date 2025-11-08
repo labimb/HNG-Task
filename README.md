@@ -81,4 +81,24 @@ Preview the MVP prototype created during Stage 3A:
 
 Access the ConnectedDrive Lite userflow diagram using the link below:
 
-[View Userflow Diagram](https://drive.google.com/file/d/18hyploSrQqfbR9s9prhVRRlPN_1DCXLv/view?usp=drive_link)
+
+![Userflow Diagram](assets/UserFlow.png)
+
+# Wireframe
+
+Access the wireframe images below
+
+![Dashboard](assets/Dashboard.png)
+
+![Feature Details](assets/Feature_Details_Offer_Modal.png)
+
+![Feature Discovery](assets/Feature-Discovery-Modal.png)
+
+![Home page](assets/Landing_Home.png)
+
+![Offline Screen](assets/Offline-Mode-Screen-State.png)
+
+![Sign In](assets/Sign-In.png)
+
+![Success Modal](assets/Success-Modal.png)
+
